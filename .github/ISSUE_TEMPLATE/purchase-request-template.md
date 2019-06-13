@@ -13,5 +13,5 @@ assignees: hirookamotods, MisatoTakahashi
 
 【購買後の用途など】
 
-※Assigneeに岡本さんが入っていることを確認してください。
+※Assigneeに岡本さんと高橋さんが入っていることを確認してください。
 ※緊急度合いに応じてラベルを付けてください。
